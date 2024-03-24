@@ -35,7 +35,7 @@ const Layout = ({ children }) => {
   } else {
     return (
       <>
-        <div className="mx-auto md:px-4 md:max-w-7xl flex flex-col max-h-screen">
+        <div className="mx-auto md:px-4  flex flex-col max-h-screen">
           <div className="h-20 ">
             <NavBar />
           </div>
